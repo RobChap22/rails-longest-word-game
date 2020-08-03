@@ -8,6 +8,7 @@ body {
 
 .container{
   text-align: center;
+  margin: 3em;
 }
 
 .letters {
@@ -21,8 +22,14 @@ body {
   color: #B4B8C5;
   background-color: #88292F;
   margin: 8px;
-  height: 50px;
-  width: 50px;
-  border-radius: 50;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
   text-align: center;
+  justify-content: center;
+  font-size: 42px;
+}
+
+.box-form {
+  margin-top: 40px;
 }
